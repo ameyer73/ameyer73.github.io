@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[911 Calls Data Capstone Project](10-Data-Capstone-Projects/01-911 Calls Data Capstone Project.ipynb)
+[911 Calls Data Capstone Project](/10-Data-Capstone-Projects/01-911 Calls Data Capstone Project.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
