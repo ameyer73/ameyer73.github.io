@@ -2,7 +2,7 @@
 
 ---
 
-### Data Analysis Projects
+### Data Analysis
 
 [911 Calls Data Capstone Project](/10-Data-Capstone-Projects/01-911 Calls Data Capstone Project.ipynb)
 <img src="DS_911_Image.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Data Science Projects
+### Data Science
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
