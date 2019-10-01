@@ -18,7 +18,7 @@
 ---
 [Project 4 Title](/sample_page)
 
-[911 Sample](/911 Calls Data Capstone Project)
+[911 Sample](/911.md)
 
 ### Data Science
 
