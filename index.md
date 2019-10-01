@@ -8,7 +8,7 @@
 <img src="DS_911_Image.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Finance Data Capstone Project](/pdf/sample_presentation.pdf)
 <img src="DS_Finance_Image.png?raw=true"/>
 
 ---
