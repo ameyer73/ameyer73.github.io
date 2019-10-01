@@ -7,13 +7,9 @@
 [911 Calls Data Capstone Project](/10-Data-Capstone-Projects/01-911 Calls Data Capstone Project.ipynb)
 <img src="DS_911_Image.png?raw=true"/>
 
-### <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="DS_Finance_Image.png?raw=true"/>
-
-###<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
