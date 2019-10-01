@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[911 Calls Data Capstone Project](/10-Data-Capstone-Projects/01-911 Calls Data Capstone Project.ipynb)
+[911 Calls Data Capstone Project](/10-Data-Capstone-Projects/911.md)
 <img src="DS_911_Image.png?raw=true"/>
 
 ---
