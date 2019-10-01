@@ -12,6 +12,10 @@ if (isAwesome){
 }
 ```
 
+'''python
+
+'''
+
 ### 2. Assess assumptions on which statistical inference will be based
 
 ```javascript
