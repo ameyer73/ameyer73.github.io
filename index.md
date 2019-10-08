@@ -13,7 +13,7 @@
 
 ### Data Science
 
-- [Linear Regression](http://example.com/)
+- [Linear Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Linear%20Regression%20Project.ipynb)
 - [Logistic Regression](http://example.com/)
 - [K Nearest Neighbors](http://example.com/)
 - [Decision Trees and Random Forests](http://example.com/)
