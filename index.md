@@ -22,10 +22,10 @@
 
 ### Data Science
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Linear Regression](http://example.com/)
+- [Logistic Regression](http://example.com/)
+- [K Nearest Neighbors](http://example.com/)
+- [Decision Trees and Random Forests](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
