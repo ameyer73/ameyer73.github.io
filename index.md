@@ -8,17 +8,8 @@
 <img src="DS_911_Image.png?raw=true"/>
 
 ---
-[Finance Data Capstone Project](/pdf/sample_presentation.pdf)
+[Finance Data Capstone Project](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/10-Data-Capstone-Projects/Finance%20Project.ipynb)
 <img src="DS_Finance_Image.png?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 4 Title](/sample_page)
-
-[911 Sample](/911.md)
 
 ### Data Science
 
