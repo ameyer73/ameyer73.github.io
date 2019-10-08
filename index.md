@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[911 Calls Data Capstone Project](10-Data-Capstone-Projects/01-911 Calls Data Capstone Project.ipynb)
+[911 Calls Data Capstone Project](https://github.com/ameyer73/ameyer73.github.io/blob/master/10-Data-Capstone-Projects/911%20Calls%20Project.ipynb)
 <img src="DS_911_Image.png?raw=true"/>
 
 ---
