@@ -17,14 +17,17 @@
 
 - [Linear Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Linear%20Regression%20Project.ipynb)
 <img src="images/DS_Linear_Regression_Image.png?raw=true"/>
+
 ---
 
 - [Logistic Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Logistic%20Regression%20Project.ipynb)
 <img src="images/DS_Finance_Image.png?raw=true"/>
+
 ---
 
 - [K Nearest Neighbors](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-K%20Nearest%20Neighbors%20Project%20Final.ipynb)
 <img src="images/DS_Finance_Image.png?raw=true"/>
+
 ---
 
 - [Decision Trees and Random Forests](http://example.com/)
