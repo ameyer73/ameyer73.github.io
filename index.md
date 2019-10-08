@@ -15,9 +15,8 @@
 
 - [Linear Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Linear%20Regression%20Project.ipynb)
 - [Logistic Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Logistic%20Regression%20Project.ipynb)
-- [K Nearest Neighbors](http://example.com/)
+- [K Nearest Neighbors](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-K%20Nearest%20Neighbors%20Project%20Final.ipynb)
 - [Decision Trees and Random Forests](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
