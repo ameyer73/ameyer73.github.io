@@ -6,10 +6,14 @@
 
 [911 Calls Data Capstone Project](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/10-Data-Capstone-Projects/911%20Calls%20Project.ipynb)
 
+This project is an analysis of some 911 calls data taken from Kaggle.com.  I used Python's Seaborn package and Panda's built-in data visualization capabilities to visualize the data.
+
 <img src="images/DS_911_Image.png?raw=true"/>
 
 ---
 [Finance Data Capstone Project](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/10-Data-Capstone-Projects/Finance%20Project.ipynb)
+
+In this project I perform some exploratory data analysis and visualizations on bank stock data.  I used Python's Seaborn package and Panda's built-in data visualization capabilities to visualize the data.
 
 <img src="images/DS_Finance_Image.png?raw=true"/>
 
