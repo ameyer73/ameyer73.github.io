@@ -19,7 +19,7 @@ In this project I perform some exploratory data analysis and visualizations on b
 
 ### Data Science
 
-- [Linear Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Linear%20Regression%20Project.ipynb)
+[Linear Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Linear%20Regression%20Project.ipynb)
 
 In this project I analyzed fake customer data from a Ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I again used Seaborn and Pandas to visualize the data and scikit-learn to create the machine learning algorithm.
 
@@ -27,7 +27,7 @@ In this project I analyzed fake customer data from a Ecommerce company and used 
 
 ---
 
-- [Logistic Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Logistic%20Regression%20Project.ipynb)
+[Logistic Regression](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Logistic%20Regression%20Project.ipynb)
 
 This project is an analysis of some fake advertising data, and I used logistic regression to help predict whether or not a particular internet user will click on an ad based on that user's features.  I used Seaborn and Pandas to visualize the data and scikit-learn to create the machine learning algorithm.
 
@@ -35,7 +35,7 @@ This project is an analysis of some fake advertising data, and I used logistic r
 
 ---
 
-- [K Nearest Neighbors](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-K%20Nearest%20Neighbors%20Project%20Final.ipynb)
+[K Nearest Neighbors](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-K%20Nearest%20Neighbors%20Project%20Final.ipynb)
 
 In this project I use K Nearest Neighbors to analyse a fake data set with unknown feature names in order to predict a class for a new data point.  I used Seaborn and Pandas to visualize the data and scikit-learn to create the machine learning algorithm.
 
@@ -43,7 +43,7 @@ In this project I use K Nearest Neighbors to analyse a fake data set with unknow
 
 ---
 
-- [Decision Trees and Random Forests](http://example.com/)
+[Decision Trees and Random Forests](http://example.com/)
 
 
 
