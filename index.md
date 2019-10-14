@@ -43,7 +43,11 @@ In this project I use K Nearest Neighbors to analyse a fake data set with unknow
 
 ---
 
-[Decision Trees and Random Forests](http://example.com/)
+[Decision Trees and Random Forests](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Decision%20Trees%20and%20Random%20Forest%20Project%20Mine%20%281%29.ipynb)
+
+
+
+<img src="images/DS_Finance_Image.png?raw=true"/>
 
 
 
