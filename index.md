@@ -31,7 +31,7 @@ In this project I analyzed fake customer data from a Ecommerce company and used 
 
 This project is an analysis of some fake advertising data, and I used logistic regression to help predict whether or not a particular internet user will click on an ad based on that user's features.  I used Seaborn and Pandas to visualize the data and scikit-learn to create the machine learning algorithm.
 
-<img src="images/DS_Finance_Image.png?raw=true"/>
+<img src="images/DS_Logistic_Regression_Image.png?raw=true"/>
 
 ---
 
@@ -39,7 +39,7 @@ This project is an analysis of some fake advertising data, and I used logistic r
 
 In this project I use K Nearest Neighbors to analyse a fake data set with unknown feature names in order to predict a class for a new data point.  I used Seaborn and Pandas to visualize the data and scikit-learn to create the machine learning algorithm.
 
-<img src="images/DS_Finance_Image.png?raw=true"/>
+<img src="images/DS_KNN_Image2.png?raw=true"/>
 
 ---
 
