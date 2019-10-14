@@ -45,7 +45,7 @@ In this project I use K Nearest Neighbors to analyse a fake data set with unknow
 
 [Decision Trees and Random Forests](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/Data%20Science%20Projects/02-Decision%20Trees%20and%20Random%20Forest%20Project%20Mine%20%281%29.ipynb)
 
-
+This project is an analysis of publicly available data from LendingClub.com.  I used lending data from 2007-2010 to try to classify and predict whether a borrower would pay back their loan in full.  I used Seaborn and Pandas to visualize the data and scikit-learn to create the machine learning algorithm.
 
 <img src="images/DS_Random_Forests_Image.png?raw=true"/>
 
