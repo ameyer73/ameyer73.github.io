@@ -11,7 +11,7 @@ This project is an analysis of some 911 calls data taken from Kaggle.com.  I use
 <img src="images/DS_911_Image.png?raw=true"/>
 
 ---
-[Finance Data Capstone Project](https://nbviewer.jupyter.org/github/ameyer73/ameyer73.github.io/blob/master/10-Data-Capstone-Projects/Finance%20Project.ipynb)
+[Finance Data Capstone Project](https://github.com/ameyer73/ameyer73.github.io/blob/master/10-Data-Capstone-Projects/03-Finance%20Project%20(1).ipynb)
 
 In this project I perform some exploratory data analysis and visualizations on bank stock data.  I used Python's Seaborn package and Pandas' built-in data visualization capabilities to visualize the data.
 
