@@ -47,7 +47,7 @@ In this project I use K Nearest Neighbors to analyse a fake data set with unknow
 
 
 
-<img src="images/DS_Finance_Image.png?raw=true"/>
+<img src="images/DS_Random_Forests_Image.png?raw=true"/>
 
 
 
